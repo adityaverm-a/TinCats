@@ -1,4 +1,4 @@
-#TinCats
+# TinCats
 
 
 This is a landing page for a made company called TinCats (a Tinder Clone for cats). As by the name of it you can figure that I love Cats.
